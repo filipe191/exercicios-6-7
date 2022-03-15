@@ -1,0 +1,22 @@
+package br.fai.ex06;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Main app = new Main();
+		app.start();
+
+	}
+	private void start() {
+		
+		int[] primeiroArray = { 50, -20, 0, 40};
+		int[] segundoArray = {5, -50, 10, 60};
+		
+	}
+	
+	private void exibirValoresDoArray(int[] array) {
+		
+	}
+
+}
